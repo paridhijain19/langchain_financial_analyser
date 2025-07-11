@@ -1,0 +1,5 @@
+langchain>=0.1.20
+langchain-community>=0.0.35
+langgraph>=0.0.38
+gradio>=4.25.0
+python-dotenv>=1.0.1
