@@ -10,11 +10,9 @@ The app is built with:
 - **Gradio** for an easy-to-use web interface.
 
 ---
-
-##  Setup
-
-###  Install dependencies
-
-```bash
-pip install -r requirements.txt
+Example Queries
+- What is the latest quote for AAPL?
+- Show me the latest news about TSLA.
+- Get financials for MSFT.
+- Show me aggregated daily data for NVDA over the last week.
 
